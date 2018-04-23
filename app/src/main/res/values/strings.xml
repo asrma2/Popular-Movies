@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular">Sort by Popular</string>
+    <string name="most_rated">Sort by Highest Rating</string>
+    <string name="title">TITLE</string>
+    <string name="date_released">DATE RELEASED</string>
+    <string name="overview">PLOT SYNOPSIS</string>
+    <string name="vote_average">VOTE AVERAGE</string>
+</resources>
